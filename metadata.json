@@ -1,0 +1,5 @@
+{
+  "name": "Cloudinary AI Background Remover",
+  "description": "An application to remove the background from images using Cloudinary's AI background removal feature. Upload an image, provide your Cloudinary URL, and get a background-free version of your image.",
+  "requestFramePermissions": []
+}
